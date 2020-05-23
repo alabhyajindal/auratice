@@ -1,6 +1,8 @@
 ---
 title: Chinese Virus
 date: 2020-05-23T13:16:10.905Z
+tags:
+  - ChineseVirus
 draft: true
 ---
 Coronavirus are a group of viruses which cause respiratory tract infections in humans. The most recent disease being spread thorugh this group is COVID-19. Other diseases caused by this group includes MERS in 2012 and SARS in early 2000s. 
@@ -21,4 +23,8 @@ The paragraph below, taken from the WHO website talks about MERS and is extremel
 
 **People infected with Chinese Virus had a travel history to China or came in direct or indirect contact with someone who did.**
 
-There is no denying this statement. In fact, one of the main variables which were being used to track infections in India before the lockdown period was travel history. But for *some* reason the WHO decided not to call this virus what it is and gave it the name COVID-19.
+There is no denying this statement. In fact, one of the main variables which were being used to track infections in India before the lockdown period was travel history. 
+
+But for *some* reason the WHO decided not to call this virus what it is and gave it the name COVID-19.
+
+Source: http://origin.who.int/csr/disease/coronavirus_infections/faq/en/
