@@ -1,8 +1,7 @@
-title: "The Butler"
-baseline: "Your blogging assistant."
-description: "A ready to use static blog, powered by Cecil."
+title: "auratice"
+baseline: ""
+description: ""
 keywords: "Cecil, Static Site Generator, SSG"
-author: "Arnaud Ligny"
 baseurl: "/"
 canonicalurl: true
 theme: "hyde"
