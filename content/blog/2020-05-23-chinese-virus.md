@@ -4,7 +4,7 @@ title: Why WHO should have named the current pandemic we are all facing the
 date: 2020-05-23T13:16:10.905Z
 tags:
   - ChineseVirus
-draft: true
+draft: false
 ---
 Coronaviruses are a group of viruses which cause respiratory tract infections in humans. The most recent disease being spread through this group is COVID-19. Other diseases caused by this group include MERS in 2012 and SARS in the early 2000s.
 
